@@ -9,6 +9,4 @@ Meth command line tool
 
 ---
 
-Copyright © All Rights Reserved
-
-Meth Development 2021
+Copyright © All Rights Reserved, Meth Development 2021
