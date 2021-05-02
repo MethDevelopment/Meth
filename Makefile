@@ -1,4 +1,6 @@
-include $(THEOS)/makefiles/common.mk
+export TPATH=$(THEOS)
+
+include $(TPATH)/makefiles/common.mk
 
 TOOL_NAME = Meth
 
