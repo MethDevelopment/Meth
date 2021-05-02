@@ -1,8 +1,12 @@
-#### Meth
-Meth command line tool.<br>
+# Meth
+Meth command line tool
 
 ---
-**Why was this made?**<br>
-Because funny!
 
-Decrypt some bitches
+* Why was this made?
+    * Because funny!
+* Decrypt some bitches
+
+---
+
+Copyright © All Rights Reserved, Meth Development 2021
