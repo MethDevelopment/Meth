@@ -5,6 +5,7 @@ Meth command line tool
 
 * Why was this made?
     * Because funny!
+    * Because meth!
 * Decrypt some bitches
 
 <img src="./img/meth.png" alt="meth">
